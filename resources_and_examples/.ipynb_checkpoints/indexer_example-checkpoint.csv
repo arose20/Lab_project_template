@@ -1,7 +1,0 @@
-Name,Data_type,Directory,Description
-organ_raw,anndata_object,/dir1/dir2/ABC.h5ad,Raw counts data for project 1
-organ_processed,anndata_object,/dir1/dir3/DEF.h5ad,Processed counts normalised logged low quality cells removed for project 1
-metadata_clinical_anndata,csv,/dir1/dir2/clinc_meta.csv,Clincal metadata per cell for project 1 all cells
-organ2_external,rds,/dir5/dir6/public_data.rds,External rds object for organ 2 from collaborator
-scvi_run1,model,/dir1/dir3/scvi_model.sav,SCVI model for organ 1 with parameters x/y/z
-general_model,model,/dir1/dir3/general_model.pkl,Generic model such as a logistic regression model

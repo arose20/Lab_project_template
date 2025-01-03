@@ -1,4 +1,0 @@
-Name,Directory,n_hidden,n_latent,n_layers,batch_size,max_epochs,weight_decay,learning_rate
-M1,/dir1/model.pt,1024,10,2,512,2000,0.00076,0.0001
-M2,/dir1/model2.sav,1024,20,3,256,2000,0.00076,0.001
-M3,/dir1/model3.pt,2048,30,2,512,1000,0.00076,0.0001
