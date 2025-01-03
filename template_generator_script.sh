@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define the source and destination directories
-SOURCE_DIR="/nfs/team298/ar32/projects/template"
-DEST_DIR="/nfs/team298/ar32/projects/test_dir"
+SOURCE_DIR="/directory/to/template"
+DEST_DIR="/new/directory/path/and/name"
 
 # Check if source directory exists
 if [ ! -d "$SOURCE_DIR" ]; then

@@ -5,6 +5,8 @@ This internal lab project to study X.
 
 The purpose of this project is to perform x, y and z.
 
+Note: This structure was first made using [template_generator_script.sh](./template_generator_script.sh)
+
 ## 🤝 Project Team
 
 This is a list of key members involved in the project and how to contact them.
@@ -21,6 +23,16 @@ Project current status:
 - [ ] Completed
 
 ## Project directory structure
+
+### 📁 Files:
+
+- 📘 **README.md**
+
+    The purpose of this is to inform the user about the project and its structure (this file!).
+
+- 🔗 **README.md**
+
+    The purpose of this is to act as a place holder to put a symlink to the data_indexer to organise what is stored in this project.
 
 ### 📁 Folders:
 
