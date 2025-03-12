@@ -1,7 +1,7 @@
 # Project title
 ---
 ## ℹ️ Description 
-This internal lab project to study X.
+This is a internal lab project for study X.
 
 The purpose of this project is to perform x, y and z.
 
